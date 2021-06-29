@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(238, 229, 229)
+    
+}
+body{
+    font-family: 'Staatliches', cursive;
+}
+.header{
+  background-color: rgba(8, 8, 182, 0.13);
+  text-align: center;
+  margin: 20px;
+  text-transform: capitalize
+}
+.span{
+    text-transform: uppercase;
+}
+
+.display{
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    background-color: blanchedalmond;
+}
